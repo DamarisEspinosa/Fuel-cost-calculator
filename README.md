@@ -22,7 +22,7 @@ El repositorio contiene los archivos Java y XML más importantes del proyecto. P
 > Asegúrate de adaptar el nombre del paquete si es necesario, para evitar conflictos con la estructura del proyecto original.
 
 
-# APK 
+### APK 
 
 En este repositorio también se incluye el archivo APK (fuelCostCalculator.apk) listo para instalar. Puedes usarlo para probar directamente la aplicación en un dispositivo Android sin necesidad de compilar el proyecto.
 
